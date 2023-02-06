@@ -1,16 +1,9 @@
 # tech_task
 
-A new Flutter project.
+Flutter MVVM Architecture with Provider.
 
-## Getting Started
+This repository contains a detailed sample app that implements MVVM architecture using Provider as state management and sharedpreferances as local storage.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230206_161030](https://user-images.githubusercontent.com/84802494/216963949-1cc9068b-0aa6-41a1-80a7-c4a30113341f.jpg)
+![Screenshot_20230206_161048](https://user-images.githubusercontent.com/84802494/216963964-30efc016-d22a-4cb7-b02b-29f27bf40a18.jpg)
+![Screenshot_20230206_161058](https://user-images.githubusercontent.com/84802494/216963976-9e09f00e-2fbb-41cd-bd6d-bea95418a2fe.jpg)
