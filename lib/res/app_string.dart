@@ -13,7 +13,7 @@ class AppString {
   final String addToCart = "Add to Cart";
   final String removeItem = "Remove Item";
   final String itemRemoved = "Item removed successfully";
-  final String copyrightNotice = "©2023 Anglara Digital Solutions";
+  final String copyrightNotice = "Copyright";
   final String currencySymbol = "Rs";
   final String noRouteDefined = "No route defined";
   final String items = "Items";
